@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediksi Harga Saham</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif !important;
+            background: #f8f9fa;
+        }
+        .main-box {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+            padding: 32px 24px 24px 24px;
+            max-width: 600px;
+            margin: 40px auto;
+        }
+        .main-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 16px;
+            letter-spacing: 1px;
+        }
+        .form-label {
+            font-size: 1rem;
+        }
+        .btn-primary {
+            background: #2d3a4b;
+            border: none;
+        }
+        .btn-primary:hover {
+            background: #1a2430;
+        }
+        .prediction-result {
+            font-size: 1.5rem;
+            color: #155724;
+            background: #e9f7ef;
+            border-radius: 8px;
+            padding: 16px;
+            margin-top: 18px;
+        }
+        .loss-plot {
+            margin-top: 32px;
+            text-align: center;
+        }
+        .loss-plot img {
+            max-width: 100%;
+            border-radius: 6px;
+            border: 1px solid #e2e2e2;
+        }
+    /* Responsive and colorful enhancements */
+    body {
+        font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif !important;
+        background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+        min-height: 100vh;
+        margin: 0;
+    }
+    .main-box {
+        background: rgba(255,255,255,0.95);
+        border-radius: 16px;
+        box-shadow: 0 8px 32px rgba(44,62,80,0.10), 0 1.5px 4px rgba(100,100,100,0.06);
+        padding: 32px 14px 24px 14px;
+        max-width: 700px;
+        margin: 36px auto 24px auto;
+        transition: box-shadow 0.3s;
+    }
+    .main-box:hover {
+        box-shadow: 0 16px 48px rgba(44,62,80,0.18), 0 2px 8px rgba(100,100,100,0.10);
+    }
+    .main-title {
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 18px;
+        letter-spacing: 1px;
+        color: #3a2666;
+        background: linear-gradient(90deg,#8ec5fc 40%,#e0c3fc 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-align: center;
+    }
+    .form-label {
+        font-size: 1rem;
+    }
+    .btn-primary {
+        background: linear-gradient(90deg,#3a2666 60%,#bfa14a 100%);
+        border: none;
+        color: #fff;
+        font-weight: 600;
+    }
+    .btn-primary:hover {
+        background: linear-gradient(90deg,#bfa14a 60%,#3a2666 100%);
+        color: #fff;
+    }
+    .prediction-result {
+        font-size: 1.5rem;
+        color: #155724;
+        background: #e9f7ef;
+        border-radius: 8px;
+        padding: 16px;
+        margin-top: 18px;
+        border: 2px solid #bfa14a;
+        background: #fffbe9;
+        text-align: center;
+    }
+    .loss-plot {
+        margin-top: 32px;
+        text-align: center;
+    }
+    .loss-plot img {
+        max-width: 100%;
+        border-radius: 6px;
+        border: 1px solid #e2e2e2;
+    }
+    /* Table styles */
+    .table-container {
+        margin-top: 36px;
+        background: #f7fafd;
+        border-radius: 12px;
+        box-shadow: 0 1px 6px rgba(44,62,80,0.06);
+        padding: 18px 8px;
+        overflow-x: auto;
+    }
+    .prediction-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.97rem;
+        background: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.05);
+    }
+    .prediction-table th, .prediction-table td {
+        padding: 8px 10px;
+        border-bottom: 1px solid #e5e7eb;
+        text-align: left;
+    }
+    .prediction-table th {
+        background: linear-gradient(90deg,#8ec5fc 60%,#e0c3fc 100%);
+        color: #3a2666;
+        font-weight: 700;
+    }
+    .prediction-table tr:hover {
+        background: #f1f7ff;
+    }
+    .search-box {
+        margin-bottom: 10px;
+        width: 100%;
+        max-width: 350px;
+        padding: 8px 12px;
+        border-radius: 8px;
+        border: 1px solid #bfa14a;
+        font-size: 1rem;
+    }
+    @media (max-width: 600px) {
+        .main-box {
+            padding: 16px 2vw 14px 2vw;
+            max-width: 99vw;
+        }
+        .prediction-table th, .prediction-table td {
+            padding: 6px 4px;
+            font-size: 0.93rem;
+        }
+    }
+    </style>
+    <!-- Google Fonts for better look -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="main-box">
+    <h1 class="main-title">Prediksi Harga Saham Indonesia</h1>
+    <form method="POST" style="margin-top:24px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content:center;">
+        <select class="form-control" style="flex:1; min-width:140px;" id="Code" name="Code" required>
+            <option value="">Kode Saham</option>
+            {% for code in code_options %}
+                <option value="{{ code }}">{{ code }}</option>
+            {% endfor %}
+        </select>
+        <input list="NameList" class="form-control" style="flex:2; min-width:200px;" placeholder="Nama Emiten" id="Name" name="Name" required autocomplete="off">
+        <datalist id="NameList">
+            {% for name in name_options %}
+                <option value="{{ name }}">
+            {% endfor %}
+        </datalist>
+        <select class="form-control" style="flex:1; min-width:140px;" id="Target_Asli" name="Target_Asli" required>
+            <option value="">Harga Aktual</option>
+            {% for t in target_options %}
+                <option value="{{ t }}">{{ '{:,.0f}'.format(t) }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div style="text-align:center; margin-top:28px;">
+        <button type="submit" class="btn btn-primary" style="padding: 8px 38px; border-radius: 8px; font-size:1.1rem; background: linear-gradient(90deg,#2d3a4b 60%,#bfa14a 100%); color:#fff; font-family:'Times New Roman',Times,serif;">Prediksi</button>
+    </div>
+</form>
+    {% if error %}
+    <div style="margin-top:18px; border:2px solid #f5c2c7; background:#f8d7da; color:#842029; border-radius:8px; padding:14px; text-align:center; font-size:1.1rem;">
+        <b>Error:</b> {{ error }}
+    </div>
+    {% endif %}
+    {% if prediction is not none %}
+    <div class="prediction-result" style="border:2px solid #bfa14a; background: #fffbe9; text-align:center;">
+        <span style="font-weight:bold; color:#bfa14a; font-size:1.2rem;">Hasil Prediksi Harga Saham:</span><br>
+        <span style="font-size:2rem; color:#1a2340;">Rp {{ '{:,.4f}'.format(prediction) }}</span>
+    </div>
+    {% endif %}
+    <div class="loss-plot">
+        <h5 style="color:#1a2340; margin-bottom:10px;">Grafik Loss Training, Validation, & Test</h5>
+        <img src="{{ url_for('static', filename='loss_plot_with_test.png') }}" alt="Training Loss Plot">
+    </div>
+    <div style="margin-top:30px; text-align:center; color:#888; font-size:1rem;">
+        <b>Aplikasi Prediksi Harga Saham Indonesia</b><br>
+        Model: Backpropagation Neural Network (BPNN)<br>
+        Evaluasi: Mean Squared Error (MSE) pada data test
+    </div>
+    <!-- Tabel Hasil Prediksi -->
+    <div class="table-container">
+        <input type="text" id="searchInput" class="search-box" placeholder="Cari kode/nama/target..." onkeyup="filterTable()">
+        <div style="overflow-x:auto; max-height:350px;">
+        <table class="prediction-table" id="prediksiTable">
+            <thead>
+                <tr>
+                    <th>Kode</th>
+                    <th>Nama Emiten</th>
+                    <th>Target Asli</th>
+                    <th>Prediksi Model</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in table_data %}
+                <tr>
+                    <td>{{ row['Code'] }}</td>
+                    <td>{{ row['Name'] }}</td>
+                    <td>{{ '{:,.0f}'.format(row['Target_Asli']) }}</td>
+                    <td>{{ '{:,.4f}'.format(row['Prediksi_Model']) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        </div>
+    </div>
+</div>
+<script>
+// Table search
+function filterTable() {
+    let input = document.getElementById('searchInput');
+    let filter = input.value.toLowerCase();
+    let table = document.getElementById('prediksiTable');
+    let trs = table.getElementsByTagName('tr');
+    for (let i = 1; i < trs.length; i++) {
+        let tds = trs[i].getElementsByTagName('td');
+        let show = false;
+        for (let j = 0; j < tds.length; j++) {
+            if (tds[j].innerText.toLowerCase().indexOf(filter) > -1) {
+                show = true;
+                break;
+            }
+        }
+        trs[i].style.display = show ? '' : 'none';
+    }
+}
+// Optional: auto-fill Name when Code selected and vice versa
+const codeSelect = document.getElementById('Code');
+const nameInput = document.getElementById('Name');
+const codeToName = {{ codeToName_json|tojson|safe }};
+const nameToCode = {{ nameToCode_json|tojson|safe }};
+codeSelect.addEventListener('change', function() {
+    if (this.value && codeToName[this.value]) {
+        nameInput.value = codeToName[this.value];
+    }
+});
+nameInput.addEventListener('change', function() {
+    if (this.value && nameToCode[this.value]) {
+        codeSelect.value = nameToCode[this.value];
+    }
+});
+</script>
+</body>
+</html>

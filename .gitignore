@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+OneDrive/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Model checkpoints (optional, uncomment if you don't want to push large models)
+# *.h5
+# *.pkl
+# *.joblib

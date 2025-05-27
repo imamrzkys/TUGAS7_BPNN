@@ -1,0 +1,806 @@
+Code,Name,Target_Asli,Prediksi_Model
+AALI,Astra Agro Lestari Tbk.,8000.0,969.45306
+ABBA,Mahaka Media Tbk.,142.0,609.4665
+ABDA,Asuransi Bina Dana Arta Tbk.,6700.0,1517.0209
+ABMM,ABM Investama Tbk.,3050.0,367.1316
+ACES,Ace Hardware Indonesia Tbk.,490.0,479.49826
+ACST,Acset Indonusa Tbk.,156.0,323.858
+ADCP,Adhi Commuter Properti Tbk.,64.0,535.15924
+ADES,Akasha Wira International Tbk.,7125.0,1177.5614
+ADHI,Adhi Karya (Persero) Tbk.,452.0,536.10486
+ADMF,Adira Dinamika Multi Finance T,8850.0,609.1912
+ADMG,Polychem Indonesia Tbk,150.0,1219.4071
+ADMR,Adaro Minerals Indonesia Tbk.,1560.0,622.8227
+ADRO,Adaro Energy Indonesia Tbk.,3140.0,634.7483
+AGAR,Asia Sejahtera Mina Tbk.,270.0,541.25934
+AGII,Aneka Gas Industri Tbk.,1935.0,432.36462
+AGRO,Bank Raya Indonesia Tbk.,406.0,601.76117
+AGRS,Bank IBK Indonesia Tbk.,89.0,385.46008
+AHAP,Asuransi Harta Aman Pratama Tb,64.0,1427.808
+AIMS,Akbar Indo Makmur Stimec Tbk,274.0,638.0715
+AISA,FKS Food Sejahtera Tbk.,142.0,977.27313
+AKKU,Anugerah Kagum Karya Utama Tbk,50.0,514.96277
+AKPI,Argha Karya Prima Industry Tbk,1150.0,1258.3197
+AKRA,AKR Corporindo Tbk.,1270.0,1157.6976
+AKSI,Mineral Sumberdaya Mandiri Tbk,406.0,605.69147
+ALDO,Alkindo Naratama Tbk.,800.0,362.088
+ALKA,Alakasa Industrindo Tbk,600.0,1429.6395
+ALMI,Alumindo Light Metal Industry ,292.0,971.16437
+ALTO,Tri Banyan Tirta Tbk.,50.0,396.54922
+AMAG,Asuransi Multi Artha Guna Tbk.,358.0,521.9209
+AMAN,Makmur Berkah Amanda Tbk.,710.0,510.7249
+AMAR,Bank Amar Indonesia Tbk.,224.0,549.46075
+AMFG,Asahimas Flat Glass Tbk.,5250.0,1049.6836
+AMIN,Ateliers Mecaniques D Indonesi,171.0,400.30206
+AMMS,Agung Menjangan Mas Tbk.,41.0,534.7552
+AMOR,Ashmore Asset Management Indon,1320.0,552.68976
+AMRT,Sumber Alfaria Trijaya Tbk.,2800.0,698.0638
+ANDI,Andira Agro Tbk.,50.0,497.81805
+ANJT,Austindo Nusantara Jaya Tbk.,645.0,380.83704
+ANTM,Aneka Tambang Tbk.,1985.0,983.8717
+APEX,Apexindo Pratama Duta Tbk.,252.0,321.24274
+APIC,Pacific Strategic Financial Tb,1120.0,610.8179
+APII,Arita Prima Indonesia Tbk.,199.0,332.4969
+APLI,Asiaplast Industries Tbk.,260.0,760.32477
+APLN,Agung Podomoro Land Tbk.,143.0,320.64886
+ARCI,Archi Indonesia Tbk.,330.0,574.04584
+ARGO,Argo Pantes Tbk,1275.0,1390.005
+ARII,Atlas Resources Tbk.,264.0,336.37338
+ARKA,Arkha Jayanti Persada Tbk.,50.0,514.8775
+ARKO,Arkora Hydro Tbk.,565.0,590.5075
+ARMY,Armidian Karyatama Tbk.,50.0,511.3135
+ARNA,Arwana Citramulia Tbk.,1000.0,653.9959
+ARTA,Arthavest Tbk,2090.0,581.12836
+ARTI,Ratu Prabu Energi Tbk,50.0,547.1486
+ARTO,Bank Jago Tbk.,3060.0,451.19275
+ASBI,Asuransi Bintang Tbk.,498.0,1485.8615
+ASDM,Asuransi Dayin Mitra Tbk.,930.0,1505.8992
+ASGR,Astra Graphia Tbk.,930.0,1468.971
+ASHA,Cilacap Samudera Fishing Indus,71.0,605.0507
+ASII,Astra International Tbk.,5450.0,1740.1389
+ASJT,Asuransi Jasa Tania Tbk.,125.0,568.425
+ASLC,Autopedia Sukses Lestari Tbk.,111.0,592.2749
+ASMI,Asuransi Maximus Graha Persada,102.0,367.10645
+ASPI,Andalan Sakti Primaindo Tbk.,90.0,502.82135
+ASRI,Alam Sutera Realty Tbk.,153.0,390.5149
+ASRM,Asuransi Ramayana Tbk.,1625.0,1465.1542
+ASSA,Adi Sarana Armada Tbk.,730.0,299.14453
+ATAP,Trimitra Prawara Goldland Tbk.,76.0,525.21436
+ATIC,Anabatic Technologies Tbk.,386.0,389.2812
+AUTO,Astra Otoparts Tbk.,1400.0,894.3426
+AVIA,Avia Avian Tbk.,625.0,598.32086
+AXIO,Tera Data Indonusa Tbk.,236.0,593.5227
+AYLS,Agro Yasa Lestari Tbk.,86.0,532.0667
+BABP,Bank MNC Internasional Tbk.,98.0,592.3492
+BACA,Bank Capital Indonesia Tbk.,130.0,476.66046
+BAJA,Saranacentral Bajatama Tbk.,121.0,349.41284
+BALI,Bali Towerindo Sentra Tbk.,790.0,345.0273
+BANK,Bank Aladin Syariah Tbk.,1325.0,590.34015
+BAPA,Bekasi Asri Pemula Tbk.,86.0,402.82147
+BAPI,Bhakti Agung Propertindo Tbk.,50.0,488.21848
+BATA,Sepatu Bata Tbk.,540.0,2032.5569
+BAUT,Mitra Angkasa Sejahtera Tbk.,50.0,593.5832
+BAYU,Bayu Buana Tbk,990.0,1473.6647
+BBCA,Bank Central Asia Tbk.,8300.0,2840.1968
+BBHI,Allo Bank Indonesia Tbk.,1695.0,431.71442
+BBKP,Bank KB Bukopin Tbk.,114.0,480.72064
+BBLD,Buana Finance Tbk.,625.0,1455.3226
+BBMD,Bank Mestika Dharma Tbk.,2070.0,390.59116
+BBNI,Bank Negara Indonesia (Persero,8900.0,1247.0184
+BBRI,Bank Rakyat Indonesia (Persero,4620.0,2007.2975
+BBRM,Pelayaran Nasional Bina Buana ,57.0,330.46997
+BBSI,Bank Bisnis Internasional Tbk.,3040.0,576.4156
+BBSS,Bumi Benowo Sukses Sejahtera T,62.0,495.88812
+BBTN,Bank Tabungan Negara (Persero),1340.0,478.8377
+BBYB,Bank Neo Commerce Tbk.,615.0,397.18683
+BCAP,MNC Kapital Indonesia Tbk.,74.0,665.71515
+BCIC,Bank JTrust Indonesia Tbk.,180.0,943.6293
+BCIP,Bumi Citra Permai Tbk.,71.0,330.87283
+BDMN,Bank Danamon Indonesia Tbk.,2620.0,1537.5404
+BEBS,Berkah Beton Sadaya Tbk.,770.0,564.6903
+BEEF,Estika Tata Tiara Tbk.,60.0,512.3055
+BEKS,Bank Pembangunan Daerah Banten,50.0,628.5501
+BELL,Trisula Textile Industries Tbk,137.0,466.23206
+BESS,Batulicin Nusantara Maritim Tb,168.0,536.1485
+BEST,Bekasi Fajar Industrial Estate,128.0,297.722
+BFIN,BFI Finance  Indonesia Tbk.,1070.0,1488.4377
+BGTG,Bank Ganesha Tbk.,87.0,430.18106
+BHAT,Bhakti Multi Artha Tbk.,820.0,549.8283
+BHIT,MNC Investama Tbk.,57.0,833.54425
+BIKA,Binakarya Jaya Abadi Tbk.,95.0,355.48407
+BIKE,Sepeda Bersama Indonesia Tbk.,193.0,597.5185
+BIMA,Primarindo Asia Infrastructure,113.0,1132.2418
+BINA,Bank Ina Perdana Tbk.,3930.0,410.287
+BINO,Perma Plasindo Tbk.,130.0,581.9993
+BIPI,Astrindo Nusantara Infrastrukt,153.0,343.534
+BIPP,Bhuwanatala Indah Permai Tbk.,50.0,1017.139
+BIRD,Blue Bird Tbk.,1385.0,354.66986
+BISI,BISI International Tbk.,1550.0,524.3299
+BJBR,Bank Pembangunan Daerah Jawa B,1345.0,465.9718
+BJTM,Bank Pembangunan Daerah Jawa T,705.0,406.7318
+BKDP,Bukit Darmo Property Tbk,80.0,382.9757
+BKSL,Sentul City Tbk.,50.0,865.2001
+BKSW,Bank QNB Indonesia Tbk.,100.0,583.42004
+BLTA,Berlian Laju Tanker Tbk,50.0,1401.1678
+BLTZ,Graha Layar Prima Tbk.,2820.0,357.35367
+BLUE,Berkah Prima Perkasa Tbk.,280.0,515.1331
+BMAS,Bank Maspion Indonesia Tbk.,1090.0,358.88287
+BMHS,Bundamedik Tbk.,420.0,578.9678
+BMRI,Bank Mandiri (Persero) Tbk.,9800.0,1581.0287
+BMSR,Bintang Mitra Semestaraya Tbk,725.0,785.18854
+BMTR,Global Mediacom Tbk.,268.0,1060.8268
+BNBA,Bank Bumi Arta Tbk.,920.0,542.9295
+BNBR,Bakrie & Brothers Tbk,70.0,1444.016
+BNGA,Bank CIMB Niaga Tbk.,1145.0,1530.3414
+BNII,Bank Maybank Indonesia Tbk.,222.0,1469.231
+BNLI,Bank Permata Tbk.,1010.0,1523.2943
+BOBA,Formosa Ingredient Factory Tbk,185.0,594.01715
+BOGA,Bintang Oto Global Tbk.,1260.0,444.76312
+BOLA,Bali Bintang Sejahtera Tbk.,214.0,521.36505
+BOLT,Garuda Metalindo Tbk.,715.0,396.13422
+BOSS,Borneo Olah Sarana Sukses Tbk.,88.0,470.23322
+BPFI,Batavia Prosperindo Finance Tb,655.0,444.78418
+BPII,Batavia Prosperindo Internasio,10700.0,378.42966
+BPTR,Batavia Prosperindo Trans Tbk.,193.0,470.36536
+BRAM,Indo Kordsa Tbk.,8175.0,1441.9674
+BRIS,Bank Syariah Indonesia Tbk.,1390.0,534.5954
+BRMS,Bumi Resources Minerals Tbk.,152.0,264.95932
+BRNA,Berlina Tbk.,970.0,1478.0883
+BRPT,Barito Pacific Tbk.,820.0,1259.3983
+BSDE,Bumi Serpong Damai Tbk.,905.0,414.80963
+BSIM,Bank Sinarmas Tbk.,865.0,452.77228
+BSML,Bintang Samudera Mandiri Lines,322.0,583.4288
+BSSR,Baramulti Suksessarana Tbk.,4110.0,336.82236
+BSWD,Bank Of India Indonesia Tbk.,1375.0,399.40005
+BTEK,Bumi Teknokultura Unggul Tbk,50.0,514.54315
+BTEL,Bakrie Telecom Tbk.,50.0,410.68854
+BTON,Betonjaya Manunggal Tbk.,432.0,656.3715
+BTPN,Bank BTPN Tbk.,2530.0,536.57965
+BTPS,Bank BTPN Syariah Tbk.,2620.0,514.7685
+BUAH,Segar Kumala Indonesia Tbk.,975.0,611.0233
+BUDI,Budi Starch & Sweetener Tbk.,222.0,1128.5988
+BUKA,Bukalapak.com Tbk.,254.0,561.91693
+BUKK,Bukaka Teknik Utama Tbk.,1085.0,382.1891
+BULL,Buana Lintas Lautan Tbk.,161.0,365.71503
+BUMI,Bumi Resources Tbk.,148.0,1331.3441
+BUVA,Bukit Uluwatu Villa Tbk.,60.0,360.08228
+BVIC,Bank Victoria International Tb,108.0,825.62427
+BWPT,Eagle High Plantations Tbk.,65.0,432.08362
+BYAN,Bayan Resources Tbk.,20575.0,591.27875
+CAKK,Cahayaputra Asa Keramik Tbk.,175.0,493.0396
+CAMP,Campina Ice Cream Industry Tbk,312.0,483.15137
+CANI,Capitol Nusantara Indonesia Tb,78.0,339.47668
+CARE,Metro Healthcare Indonesia Tbk,474.0,542.1434
+CARS,Industri dan Perdagangan Bintr,76.0,453.4184
+CASA,Capital Financial Indonesia Tb,710.0,453.86343
+CASH,Cashlez Worldwide Indonesia Tb,123.0,463.33997
+CASS,Cardig Aero Services Tbk.,412.0,330.4756
+CBMF,Cahaya Bintang Medan Tbk.,50.0,547.56683
+CCSI,Communication Cable Systems In,670.0,513.6983
+CEKA,Wilmar Cahaya Indonesia Tbk.,1975.0,1049.3287
+CENT,Centratama Telekomunikasi Indo,107.0,600.71844
+CFIN,Clipan Finance Indonesia Tbk.,294.0,1454.8643
+CHEM,Chemstar Indonesia Tbk.,141.0,593.0492
+CINT,Chitose Internasional Tbk.,224.0,362.44843
+CITA,Cita Mineral Investindo Tbk.,3460.0,636.83026
+CITY,Natura City Developments Tbk.,141.0,462.09158
+CLAY,Citra Putra Realty Tbk.,580.0,509.2373
+CLEO,Sariguna Primatirta Tbk.,484.0,464.66486
+CLPI,Colorpak Indonesia Tbk.,925.0,636.29175
+CMNP,Citra Marga Nusaphala Persada ,1920.0,1128.8674
+CMNT,Cemindo Gemilang Tbk.,900.0,586.8432
+CMPP,AirAsia Indonesia Tbk.,180.0,1062.2338
+CMRY,Cisarua Mountain Dairy Tbk.,4270.0,624.6661
+CNKO,Exploitasi Energi Indonesia Tb,50.0,635.68207
+CNTX,Century Textile Industry Tbk.,212.0,2209.6135
+COAL,Black Diamond Resources Tbk.,120.0,597.8774
+COCO,Wahana Interfood Nusantara Tbk,262.0,518.7011
+COWL,Cowell Development Tbk.,50.0,266.96896
+CPIN,Charoen Pokphand Indonesia Tbk,6000.0,1557.213
+CPRI,Capri Nusa Satu Properti Tbk.,50.0,470.26746
+CPRO,Central Proteina Prima Tbk.,53.0,470.37085
+CRAB,Toba Surimi Industries Tbk.,216.0,610.4208
+CSAP,Catur Sentosa Adiprana Tbk.,780.0,479.63223
+CSIS,Cahayasakti Investindo Sukses ,61.0,413.77048
+CSMI,Cipta Selera Murni Tbk.,3150.0,554.6969
+CSRA,Cisadane Sawit Raya Tbk.,560.0,549.4901
+CTBN,Citra Tubindo Tbk.,1625.0,1497.7252
+CTRA,Ciputra Development Tbk.,890.0,1163.8184
+CTTH,Citatah Tbk.,50.0,976.5545
+DADA,Diamond Citra Propertindo Tbk.,50.0,501.12158
+DART,Duta Anggada Realty Tbk.,173.0,1427.2704
+DAYA,Duta Intidaya Tbk.,202.0,431.1834
+DCII,DCI Indonesia Tbk.,37900.0,625.1346
+DEAL,Dewata Freightinternational Tb,50.0,476.51685
+DEFI,Danasupra Erapacific Tbk.,1455.0,655.8958
+DEPO,Caturkarda Depo Bangunan Tbk.,482.0,596.1754
+DEWA,Darma Henwa Tbk,54.0,439.04166
+DEWI,Dewi Shri Farmindo Tbk.,220.0,609.0817
+DFAM,Dafam Property Indonesia Tbk.,90.0,485.04752
+DGIK,Nusa Konstruksi Enjiniring Tbk,124.0,445.15106
+DGNS,Diagnos Laboratorium Utama Tbk,252.0,561.28827
+DIGI,Arkadia Digital Media Tbk.,50.0,497.68683
+DILD,Intiland Development Tbk.,160.0,1329.161
+DIVA,Distribusi Voucher Nusantara T,900.0,494.00845
+DKFT,Central Omega Resources Tbk.,102.0,906.3896
+DLTA,Delta Djakarta Tbk.,3760.0,1924.7888
+DMAS,Puradelta Lestari Tbk.,159.0,348.22528
+DMMX,Digital Mediatama Maxima Tbk.,1080.0,526.5973
+DMND,Diamond Food Indonesia Tbk.,825.0,553.89453
+DNAR,Bank Oke Indonesia Tbk.,168.0,377.0921
+DNET,Indoritel Makmur Internasional,4120.0,783.575
+DOID,Delta Dunia Makmur Tbk.,278.0,662.7698
+DPNS,Duta Pertiwi Nusantara Tbk.,420.0,1447.5388
+DPUM,Dua Putra Utama Makmur Tbk.,50.0,487.70786
+DRMA,Dharma Polimetal Tbk.,575.0,597.73004
+DSFI,Dharma Samudera Fishing Indust,90.0,785.06793
+DSNG,Dharma Satya Nusantara Tbk.,640.0,381.24124
+DSSA,Dian Swastatika Sentosa Tbk,38000.0,474.4817
+DUCK,Jaya Bersama Indo Tbk.,176.0,545.6043
+DUTI,Duta Pertiwi Tbk,3990.0,1099.318
+DVLA,Darya-Varia Laboratoria Tbk.,2340.0,1114.55
+DWGL,Dwi Guna Laksana Tbk.,169.0,463.7128
+DYAN,Dyandra Media International Tb,90.0,324.84308
+EAST,Eastparc Hotel Tbk.,98.0,523.0979
+ECII,Electronic City Indonesia Tbk.,530.0,335.37405
+EDGE,Indointernet Tbk.,19500.0,565.35187
+EKAD,Ekadharma International Tbk.,282.0,1446.1434
+ELPI,Pelayaran Nasional Ekalya Purn,212.0,583.786
+ELSA,Elnusa Tbk.,292.0,448.83667
+ELTY,Bakrieland Development Tbk.,50.0,1008.14764
+EMDE,Megapolitan Developments Tbk.,125.0,304.3796
+EMTK,Elang Mahkota Teknologi Tbk.,980.0,407.44287
+ENAK,Champ Resto Indonesia Tbk.,1930.0,597.9267
+ENRG,Energi Mega Persada Tbk.,270.0,496.8505
+ENVY,Envy Technologies Indonesia Tb,50.0,546.24286
+ENZO,Morenzo Abadi Perkasa Tbk.,73.0,563.77216
+EPAC,Megalestari Epack Sentosaraya ,50.0,542.6496
+EPMT,Enseval Putera Megatrading Tbk,2720.0,1171.1044
+ERAA,Erajaya Swasembada Tbk.,390.0,380.8692
+ERTX,Eratex Djaja Tbk.,525.0,1416.386
+ESIP,Sinergi Inti Plastindo Tbk.,56.0,524.09424
+ESSA,Surya Esa Perkasa Tbk.,795.0,386.79535
+ESTA,Esta Multi Usaha Tbk.,136.0,545.1588
+ESTI,Ever Shine Tex Tbk.,50.0,1286.7069
+ETWA,Eterindo Wahanatama Tbk,212.0,957.0516
+EURO,Estee Gold Feet Tbk.,282.0,535.15753
+EXCL,XL Axiata Tbk.,2260.0,544.23315
+FAPA,FAP Agri Tbk.,4280.0,583.3162
+FAST,Fast Food Indonesia Tbk.,820.0,1226.0475
+FASW,Fajar Surya Wisesa Tbk.,6150.0,1161.9977
+FILM,MD Pictures Tbk.,1540.0,507.6896
+FIMP,Fimperkasa Utama Tbk.,74.0,485.09308
+FIRE,Alfa Energi Investama Tbk.,160.0,448.2719
+FISH,FKS Multi Agro Tbk.,6650.0,651.24225
+FITT,Hotel Fitra International Tbk.,426.0,521.4373
+FLMC,Falmaco Nonwoven Industri Tbk.,79.0,514.92596
+FMII,Fortune Mate Indonesia Tbk,515.0,690.46564
+FOOD,Sentra Food Indonesia Tbk.,108.0,512.40405
+FORU,Fortune Indonesia Tbk,222.0,623.20905
+FORZ,Forza Land Indonesia Tbk.,50.0,473.2387
+FPNI,Lotte Chemical Titan Tbk.,200.0,616.29376
+FREN,Smartfren Telecom Tbk.,66.0,177.22858
+FUJI,Fuji Finance Indonesia Tbk.,400.0,534.4681
+GAMA,Aksara Global Development Tbk.,50.0,289.60605
+GDST,Gunawan Dianjaya Steel Tbk.,123.0,389.59912
+GDYR,Goodyear Indonesia Tbk.,1315.0,2121.3054
+GEMA,Gema Grahasarana Tbk.,308.0,591.794
+GEMS,Golden Energy Mines Tbk.,6850.0,449.22498
+GGRM,Gudang Garam Tbk.,17775.0,1512.0056
+GGRP,Gunung Raja Paksi Tbk.,510.0,521.092
+GHON,Gihon Telekomunikasi Indonesia,1900.0,474.8965
+GIAA,Garuda Indonesia (Persero) Tbk,163.0,317.461
+GJTL,Gajah Tunggal Tbk.,555.0,1459.7994
+GLOB,Globe Kita Terang Tbk.,111.0,342.7754
+GLVA,Galva Technologies Tbk.,660.0,528.0842
+GMFI,Garuda Maintenance Facility Ae,61.0,452.6162
+GMTD,Gowa Makassar Tourism Developm,14500.0,658.0164
+GOLD,Visi Telekomunikasi Infrastruk,494.0,363.4744
+GOLL,Golden Plantation Tbk.,50.0,530.4734
+GOOD,Garudafood Putra Putri Jaya Tb,490.0,513.6877
+GOTO,GoTo Gojek Tokopedia Tbk.,95.0,310.16513
+GPRA,Perdana Gapuraprima Tbk.,99.0,405.82275
+GPSO,Geoprima Solusi Tbk.,138.0,576.78534
+GSMF,Equity Development Investment ,75.0,1482.1041
+GTBO,Garda Tujuh Buana Tbk,230.0,394.87677
+GTSI,GTS Internasional Tbk.,54.0,578.02875
+GULA,Aman Agrindo Tbk.,314.0,610.1662
+GWSA,Greenwood Sejahtera Tbk.,151.0,306.4969
+GZCO,Gozco Plantations Tbk.,80.0,489.39905
+HADE,Himalaya Energi Perkasa Tbk.,50.0,505.38623
+HAIS,Hasnur Internasional Shipping ,208.0,563.4615
+HATM,Habco Trans Maritima Tbk.,320.0,578.97546
+HDFA,Radana Bhaskara Finance Tbk.,150.0,421.24158
+HDIT,Hensel Davest Indonesia Tbk.,53.0,517.4476
+HEAL,Medikaloka Hermina Tbk.,1685.0,499.99725
+HELI,Jaya Trishindo Tbk.,278.0,456.67126
+HERO,Hero Supermarket Tbk.,1520.0,1540.1005
+HEXA,Hexindo Adiperkasa Tbk.,5200.0,1104.2396
+HITS,Humpuss Intermoda Transportasi,406.0,909.14355
+HKMU,HK Metals Utama Tbk.,50.0,492.92227
+HMSP,H.M. Sampoerna Tbk.,840.0,1510.7535
+HOKI,Buyung Poetra Sembada Tbk.,101.0,465.75226
+HOME,Hotel Mandarine Regency Tbk.,50.0,450.3816
+HOMI,Grand House Mulia Tbk.,326.0,518.7844
+HOPE,Harapan Duta Pertiwi Tbk.,50.0,568.78656
+HOTL,Saraswati Griya Lestari Tbk.,50.0,352.38824
+HRME,Menteng Heritage Realty Tbk.,51.0,514.82855
+HRTA,Hartadinata Abadi Tbk.,202.0,462.23184
+HRUM,Harum Energy Tbk.,1520.0,396.58344
+IATA,MNC Energy Investments Tbk.,130.0,397.12558
+IBFN,Intan Baru Prana Tbk.,97.0,396.8299
+IBOS,Indo Boga Sukses Tbk.,82.0,527.5715
+IBST,Inti Bangun Sejahtera Tbk.,5950.0,357.49213
+ICBP,Indofood CBP Sukses Makmur Tbk,10175.0,695.0606
+ICON,Island Concepts Indonesia Tbk.,63.0,470.67682
+IDEA,Idea Indonesia Akademi Tbk.,56.0,509.99792
+IDPR,Indonesia Pondasi Raya Tbk.,183.0,399.3235
+IFII,Indonesia Fibreboard Industry ,158.0,529.8545
+IFSH,Ifishdeco Tbk.,1205.0,527.60077
+IGAR,Champion Pacific Indonesia Tbk,468.0,1430.2721
+IIKP,Inti Agri Resources Tbk,50.0,383.85638
+IKAI,Intikeramik Alamasri Industri ,50.0,950.38007
+IKAN,Era Mandiri Cemerlang Tbk.,57.0,547.4498
+IKBI,Sumi Indo Kabel Tbk.,214.0,1361.1215
+IMAS,Indomobil Sukses Internasional,835.0,1213.0486
+IMJS,Indomobil Multi Jasa Tbk.,316.0,369.88416
+IMPC,Impack Pratama Industri Tbk.,3450.0,380.54657
+INAF,Indofarma Tbk.,850.0,658.9545
+INAI,Indal Aluminium Industry Tbk.,250.0,1119.0397
+INCF,Indo Komoditi Korpora Tbk.,52.0,421.85922
+INCI,Intanwijaya Internasional Tbk,670.0,1450.5421
+INCO,Vale Indonesia Tbk.,7350.0,1565.5287
+INDF,Indofood Sukses Makmur Tbk.,6950.0,1272.7412
+INDO,Royalindo Investa Wijaya Tbk.,87.0,499.05472
+INDR,Indo-Rama Synthetics Tbk.,5200.0,1447.7372
+INDS,Indospring Tbk.,1900.0,1443.1083
+INDX,Tanah Laut Tbk,220.0,635.0537
+INDY,Indika Energy Tbk.,2440.0,466.9937
+INKP,Indah Kiat Pulp & Paper Tbk.,8625.0,1518.6221
+INOV,Inocycle Technology Group Tbk.,120.0,523.63446
+INPC,Bank Artha Graha Internasional,70.0,1441.9297
+INPP,Indonesian Paradise Property T,398.0,480.36652
+INPS,Indah Prakasa Sentosa Tbk.,995.0,475.216
+INRU,Toba Pulp Lestari Tbk.,630.0,1434.368
+INTA,Intraco Penta Tbk.,74.0,1165.7896
+INTD,Inter Delta Tbk,183.0,1469.041
+INTP,Indocement Tunggal Prakarsa Tb,10050.0,1547.9031
+IPAC,Era Graharealty Tbk.,111.0,464.61203
+IPCC,Indonesia Kendaraan Terminal T,535.0,482.5174
+IPCM,Jasa Armada Indonesia Tbk.,270.0,464.5464
+IPOL,Indopoly Swakarsa Industry Tbk,141.0,406.71545
+IPPE,Indo Pureco Pratama Tbk.,122.0,595.6425
+IPTV,MNC Vision Networks Tbk.,63.0,518.71295
+IRRA,Itama Ranoraya Tbk.,1040.0,526.2148
+ISAT,Indosat Tbk.,6125.0,1201.3043
+ISSP,Steel Pipe Industry of Indones,236.0,346.9538
+ITIC,Indonesian Tobacco Tbk.,252.0,527.9953
+ITMA,Sumber Energi Andalan Tbk.,770.0,1382.6733
+ITMG,Indo Tambangraya Megah Tbk.,35400.0,544.0844
+JARR,Jhonlin Agro Raya Tbk.,260.0,609.83563
+JAST,Jasnita Telekomindo Tbk.,84.0,504.87537
+JAWA,Jaya Agra Wattie Tbk.,128.0,421.4923
+JAYA,Armada Berjaya Trans Tbk.,107.0,485.63416
+JECC,Jembo Cable Company Tbk.,4950.0,1233.833
+JGLE,Graha Andrasentra Propertindo ,50.0,421.59406
+JIHD,Jakarta International Hotels &,346.0,1872.1941
+JKON,Jaya Konstruksi Manggala Prata,110.0,437.19684
+JKSW,Jakarta Kyoei Steel Works Tbk.,60.0,302.45093
+JMAS,Asuransi Jiwa Syariah Jasa Mit,79.0,484.35992
+JPFA,Japfa Comfeed Indonesia Tbk.,1380.0,1536.4791
+JRPT,Jaya Real Property Tbk.,486.0,1135.1737
+JSKY,Sky Energy Indonesia Tbk.,52.0,482.7227
+JSMR,Jasa Marga (Persero) Tbk.,3050.0,494.14624
+JSPT,Jakarta Setiabudi Internasiona,840.0,895.0097
+JTPE,Jasuindo Tiga Perkasa Tbk.,260.0,584.0468
+KAEF,Kimia Farma Tbk.,1090.0,650.2891
+KARW,ICTSI Jasa Prima Tbk.,78.0,1098.3716
+KAYU,Darmi Bersaudara Tbk.,50.0,512.5112
+KBAG,Karya Bersama Anugerah Tbk.,50.0,505.86932
+KBLI,KMI Wire & Cable Tbk.,308.0,1280.5005
+KBLM,Kabelindo Murni Tbk.,236.0,1265.2648
+KBLV,First Media Tbk.,100.0,731.8449
+KBRI,Kertas Basuki Rachmat Indonesi,50.0,442.87207
+KDSI,Kedawung Setia Industrial Tbk.,1065.0,1003.4241
+KEEN,Kencana Energi Lestari Tbk.,600.0,519.86676
+KEJU,Mulia Boga Raya Tbk.,1400.0,541.9234
+KIAS,Keramika Indonesia Assosiasi T,50.0,1076.2355
+KICI,Kedaung Indah Can Tbk,200.0,1214.814
+KIJA,Kawasan Industri Jababeka Tbk.,145.0,1085.6776
+KINO,Kino Indonesia Tbk.,1540.0,419.6735
+KIOS,Kioson Komersial Indonesia Tbk,141.0,456.58124
+KJEN,Krida Jaringan Nusantara Tbk.,151.0,497.1105
+KKES,Kusuma Kemindo Sentosa Tbk.,108.0,594.8488
+KKGI,Resource Alam Indonesia Tbk.,396.0,1364.9943
+KLBF,Kalbe Farma Tbk.,2050.0,1448.9563
+KLIN,Klinko Karya Imaji Tbk.,31.0,530.14923
+KMDS,Kurniamitra Duta Sentosa Tbk.,565.0,563.8288
+KMTR,Kirana Megatara Tbk.,266.0,446.8713
+KOBX,Kobexindo Tractors Tbk.,336.0,336.9546
+KOIN,Kokoh Inti Arebama Tbk,138.0,407.39655
+KONI,Perdana Bangun Pusaka Tbk,2960.0,1039.6782
+KOPI,Mitra Energi Persada Tbk.,545.0,381.2664
+KOTA,DMS Propertindo Tbk.,50.0,485.48212
+KPAL,Steadfast Marine Tbk.,50.0,529.5942
+KPAS,Cottonindo Ariesta Tbk.,62.0,545.4749
+KPIG,MNC Land Tbk.,69.0,675.50275
+KRAH,Grand Kartech Tbk.,436.0,425.48657
+KRAS,Krakatau Steel (Persero) Tbk.,310.0,396.55005
+KREN,Kresna Graha Investama Tbk.,50.0,528.54663
+KRYA,Bangun Karya Perkasa Jaya Tbk.,418.0,591.0734
+KUAS,Ace Oldfields Tbk.,56.0,580.1623
+LABA,Ladangbaja Murni Tbk.,99.0,570.31354
+LAND,Trimitra Propertindo Tbk.,50.0,454.68604
+LAPD,Leyand International Tbk.,50.0,393.3001
+LCGP,Eureka Prima Jakarta Tbk.,114.0,403.11194
+LCKM,LCK Global Kedaton Tbk.,302.0,462.43726
+LEAD,Logindo Samudramakmur Tbk.,59.0,340.6031
+LFLO,Imago Mulia Persada Tbk.,55.0,498.70123
+LIFE,Asuransi Jiwa Sinarmas MSIG Tb,5175.0,547.44415
+LINK,Link Net Tbk.,2500.0,355.4688
+LION,Lion Metal Works Tbk.,735.0,1203.1085
+LMAS,Limas Indonesia Makmur Tbk,50.0,538.4998
+LMPI,Langgeng Makmur Industri Tbk.,114.0,1122.6942
+LMSH,Lionmesh Prima Tbk.,620.0,1436.9645
+LPCK,Lippo Cikarang Tbk,960.0,922.1149
+LPGI,Lippo General Insurance Tbk.,5900.0,970.629
+LPIN,Multi Prima Sejahtera Tbk,390.0,1454.4015
+LPKR,Lippo Karawaci Tbk.,77.0,941.3042
+LPLI,Star Pacific Tbk,272.0,1443.58
+LPPF,Matahari Department Store Tbk.,4220.0,1515.1901
+LPPS,Lenox Pasifik Investama Tbk.,82.0,1178.9448
+LRNA,Eka Sari Lorena Transport Tbk.,181.0,330.07706
+LSIP,PP London Sumatra Indonesia Tb,1015.0,1053.6329
+LTLS,Lautan Luas Tbk.,1320.0,958.90717
+LUCK,Sentral Mitra Informatika Tbk.,122.0,493.35666
+LUCY,Lima Dua Lima Tiga Tbk.,185.0,500.89453
+MABA,Marga Abhinaya Abadi Tbk.,50.0,550.3957
+MAGP,Multi Agro Gemilang Plantation,50.0,347.24377
+MAIN,Malindo Feedmill Tbk.,482.0,546.93976
+MAMI,Mas Murni Indonesia Tbk,50.0,655.89844
+MAPA,Map Aktif Adiperkasa Tbk.,3650.0,498.7281
+MAPB,MAP Boga Adiperkasa Tbk.,1835.0,460.7068
+MAPI,Mitra Adiperkasa Tbk.,1300.0,579.05035
+MARI,Mahaka Radio Integra Tbk.,126.0,413.8295
+MARK,Mark Dynamics Indonesia Tbk.,625.0,456.82294
+MASA,Multistrada Arah Sarana Tbk.,2210.0,570.64075
+MASB,Bank Multiarta Sentosa Tbk.,3480.0,594.0413
+MAYA,Bank Mayapada Internasional Tb,515.0,961.3343
+MBAP,Mitrabara Adiperdana Tbk.,6975.0,361.2443
+MBSS,Mitrabahtera Segara Sejati Tbk,1190.0,381.4884
+MBTO,Martina Berto Tbk.,138.0,432.2583
+MCAS,M Cash Integrasi Tbk.,7700.0,463.96356
+MCOL,Prima Andalan Mandiri Tbk.,6850.0,599.10205
+MCOR,Bank China Construction Bank I,81.0,480.96606
+MDIA,Intermedia Capital Tbk.,50.0,350.8459
+MDKA,Merdeka Copper Gold Tbk.,4290.0,472.4652
+MDKI,Emdeki Utama Tbk.,183.0,460.06754
+MDLN,Modernland Realty Tbk.,77.0,1230.5101
+MDRN,Modern Internasional Tbk.,50.0,1344.7589
+MEDC,Medco Energi Internasional Tbk,1035.0,1152.2705
+MEDS,Hetzer Medical Indonesia Tbk.,131.0,598.5978
+MEGA,Bank Mega Tbk.,5525.0,862.98346
+MERK,Merck Tbk.,4700.0,2030.3123
+META,Nusantara Infrastructure Tbk.,119.0,649.86884
+MFIN,Mandala Multifinance Tbk.,1645.0,537.0409
+MFMI,Multifiling Mitra Indonesia Tb,795.0,345.91107
+MGLV,Panca Anugrah Wisesa Tbk.,58.0,503.07422
+MGNA,Magna Investama Mandiri Tbk.,50.0,531.8133
+MGRO,Mahkota Group Tbk.,790.0,502.4679
+MICE,Multi Indocitra Tbk.,496.0,495.0542
+MIDI,Midi Utama Indonesia Tbk.,2910.0,424.65546
+MIKA,Mitra Keluarga Karyasehat Tbk.,2850.0,411.01086
+MINA,Sanurhasta Mitra Tbk.,77.0,452.16553
+MIRA,Mitra International Resources ,50.0,912.7817
+MITI,Mitra Investindo Tbk.,159.0,915.56476
+MKNT,Mitra Komunikasi Nusantara Tbk,50.0,404.18793
+MKPI,Metropolitan Kentjana Tbk.,37850.0,423.05054
+MLBI,Multi Bintang Indonesia Tbk.,8950.0,2102.8816
+MLIA,Mulia Industrindo Tbk,520.0,1150.8333
+MLPL,Multipolar Tbk.,112.0,1458.8947
+MLPT,Multipolar Technology Tbk.,1985.0,327.43314
+MMLP,Mega Manunggal Property Tbk.,474.0,353.51068
+MNCN,Media Nusantara Citra Tbk.,725.0,496.1324
+MOLI,Madusari Murni Indah Tbk.,214.0,485.38123
+MORA,Mora Telematika Indonesia Tbk.,496.0,599.3909
+MPMX,Mitra Pinasthika Mustika Tbk.,1170.0,358.3921
+MPOW,Megapower Makmur Tbk.,81.0,445.18546
+MPPA,Matahari Putra Prima Tbk.,123.0,1293.1764
+MPRO,Maha Properti Indonesia Tbk.,1500.0,468.35248
+MRAT,Mustika Ratu Tbk.,655.0,1115.3883
+MREI,Maskapai Reasuransi Indonesia ,4700.0,1505.7474
+MSIN,MNC Digital Entertainment Tbk.,4810.0,532.804
+MSKY,MNC Sky Vision Tbk.,216.0,369.51202
+MTDL,Metrodata Electronics Tbk.,545.0,1385.7838
+MTEL,Dayamitra Telekomunikasi Tbk.,705.0,603.4603
+MTFN,Capitalinc Investment Tbk.,50.0,1402.4081
+MTLA,Metropolitan Land Tbk.,376.0,322.29865
+MTMH,Murni Sadar Tbk.,1400.0,598.51117
+MTPS,Meta Epsi Tbk.,85.0,501.4856
+MTRA,Mitra Pemuda Tbk.,244.0,524.8935
+MTSM,Metro Realty Tbk.,162.0,1288.2101
+MTWI,Malacca Trust Wuwungan Insuran,97.0,478.4013
+MYOH,Samindo Resources Tbk.,1580.0,729.6967
+MYOR,Mayora Indah Tbk.,2460.0,1536.9196
+MYRX,Hanson International Tbk.,50.0,206.45813
+MYTX,Asia Pacific Investama Tbk.,52.0,1494.2415
+NANO,Nanotech Indonesia Global Tbk.,27.0,525.43915
+NASA,Andalan Perkasa Abadi Tbk.,50.0,459.91443
+NASI,Wahana Inti Makmur Tbk.,94.0,596.4469
+NATO,Surya Permata Andalan Tbk.,484.0,509.68143
+NELY,Pelayaran Nelly Dwi Putri Tbk.,296.0,283.21222
+NETV,Net Visi Media Tbk.,220.0,592.288
+NFCX,NFC Indonesia Tbk.,6675.0,484.51758
+NICK,Charnic Capital Tbk.,167.0,496.3183
+NICL,PAM Mineral Tbk.,180.0,569.3024
+NIKL,Pelat Timah Nusantara Tbk.,630.0,425.5629
+NIRO,City Retail Developments Tbk.,142.0,263.17737
+NISP,Bank OCBC NISP Tbk.,730.0,1169.3857
+NOBU,Bank Nationalnobu Tbk.,545.0,379.83118
+NPGF,Nusa Palapa Gemilang Tbk.,50.0,567.96545
+NRCA,Nusa Raya Cipta Tbk.,294.0,328.3751
+NTBK,Nusatama Berkah Tbk.,50.0,586.181
+NUSA,Sinergi Megah Internusa Tbk.,50.0,534.1964
+NZIA,Nusantara Almazia Tbk.,262.0,494.5678
+OASA,Protech Mitra Perkasa Tbk.,730.0,414.5512
+OBMD,OBM Drilchem Tbk.,177.0,580.8354
+OCAP,Onix Capital Tbk.,159.0,418.73868
+OILS,Indo Oil Perkasa Tbk.,218.0,590.0424
+OKAS,Ancora Indonesia Resources Tbk,101.0,481.94864
+OLIV,Oscar Mitra Sukses Sejahtera T,25.0,524.6998
+OMRE,Indonesia Prima Property Tbk,575.0,1103.6134
+OPMS,Optima Prima Metal Sinergi Tbk,84.0,519.5749
+PADI,Minna Padi Investama Sekuritas,50.0,399.79272
+PALM,Provident Agro Tbk.,650.0,368.70898
+PAMG,Bima Sakti Pertiwi Tbk.,68.0,486.8455
+PANI,Pratama Abadi Nusa Industri Tb,990.0,502.89062
+PANR,Panorama Sentrawisata Tbk.,535.0,664.4954
+PANS,Panin Sekuritas Tbk.,1825.0,769.0304
+PBID,Panca Budi Idaman Tbk.,1575.0,469.0782
+PBRX,Pan Brothers Tbk.,100.0,1435.8971
+PBSA,Paramita Bangun Sarana Tbk.,298.0,425.2268
+PCAR,Prima Cakrawala Abadi Tbk.,81.0,479.3797
+PDES,Destinasi Tirta Nusantara Tbk,306.0,435.8834
+PEGE,Panca Global Kapital Tbk.,434.0,534.46014
+PEHA,Phapros Tbk.,680.0,504.35095
+PGAS,Perusahaan Gas Negara Tbk.,1585.0,608.5915
+PGJO,Tourindo Guide Indonesia Tbk.,76.0,453.42175
+PGLI,Pembangunan Graha Lestari Inda,268.0,737.5476
+PGUN,Pradiksi Gunatama Tbk.,950.0,566.066
+PICO,Pelangi Indah Canindo Tbk,224.0,992.00775
+PJAA,Pembangunan Jaya Ancol Tbk.,695.0,556.94073
+PKPK,Perdana Karya Perkasa Tbk,280.0,437.61444
+PLAN,Planet Properindo Jaya Tbk.,28.0,483.9749
+PLAS,Polaris Investama Tbk,50.0,688.263
+PLIN,Plaza Indonesia Realty Tbk.,2250.0,1291.1299
+PMJS,Putra Mandiri Jembar Tbk.,156.0,536.1514
+PMMP,Panca Mitra Multiperdana Tbk.,370.0,575.64703
+PNBN,Bank Pan Indonesia Tbk,1255.0,2021.2218
+PNBS,Bank Panin Dubai Syariah Tbk.,64.0,354.7665
+PNGO,Pinago Utama Tbk.,1295.0,548.36237
+PNIN,Paninvest Tbk.,1185.0,1949.385
+PNLF,Panin Financial Tbk.,310.0,1951.3722
+PNSE,Pudjiadi & Sons Tbk.,418.0,1436.1447
+POLA,Pool Advista Finance Tbk.,67.0,513.2345
+POLI,Pollux Hotels Group Tbk.,790.0,468.28775
+POLL,Pollux Properties Indonesia Tb,202.0,455.0975
+POLU,Golden Flower Tbk.,322.0,522.6954
+POLY,Asia Pacific Fibers Tbk,53.0,1375.3102
+POOL,Pool Advista Indonesia Tbk.,50.0,800.95685
+PORT,Nusantara Pelabuhan Handal Tbk,915.0,436.8717
+POSA,Bliss Properti Indonesia Tbk.,50.0,511.58893
+POWR,Cikarang Listrindo Tbk.,655.0,415.55954
+PPGL,Prima Globalindo Logistik Tbk.,130.0,454.05438
+PPRE,PP Presisi Tbk.,120.0,460.72028
+PPRO,PP Properti Tbk.,50.0,339.4806
+PRAS,Prima Alloy Steel Universal Tb,130.0,1446.9103
+PRDA,Prodia Widyahusada Tbk.,5375.0,441.9475
+PRIM,Royal Prima Tbk.,177.0,479.48688
+PSAB,J Resources Asia Pasifik Tbk.,112.0,541.0896
+PSDN,Prasidha Aneka Niaga Tbk,80.0,1146.1866
+PSGO,Palma Serasih Tbk.,156.0,538.2212
+PSKT,Red Planet Indonesia Tbk.,65.0,1050.2792
+PSSI,Pelita Samudera Shipping Tbk.,595.0,469.78436
+PTBA,Bukit Asam Tbk.,3430.0,647.28436
+PTDU,Djasa Ubersakti Tbk.,54.0,551.3301
+PTIS,Indo Straits Tbk.,540.0,372.57904
+PTPP,PP (Persero) Tbk.,695.0,403.0775
+PTPW,Pratama Widya Tbk.,875.0,528.8318
+PTRO,Petrosea Tbk.,4190.0,1450.3092
+PTSN,Sat Nusapersada Tbk,187.0,385.07434
+PTSP,Pioneerindo Gourmet Internatio,3400.0,1151.3783
+PUDP,Pudjiadi Prestige Tbk.,352.0,1109.139
+PURA,Putra Rajawali Kencana Tbk.,50.0,513.79034
+PURE,Trinitan Metals and Minerals T,51.0,529.91296
+PURI,Puri Global Sukses Tbk.,238.0,518.5706
+PWON,Pakuwon Jati Tbk.,448.0,1460.0642
+PYFA,Pyridam Farma Tbk,855.0,607.6298
+PZZA,Sarimelati Kencana Tbk.,530.0,492.6399
+RAFI,Sari Kreasi Boga Tbk.,124.0,605.14825
+RAJA,Rukun Raharja Tbk.,1035.0,498.81354
+RALS,Ramayana Lestari Sentosa Tbk.,640.0,1345.1017
+RANC,Supra Boga Lestari Tbk.,795.0,401.86813
+RBMS,Ristia Bintang Mahkotasejati T,50.0,889.8651
+RCCC,Utama Radar Cahaya Tbk.,130.0,504.05322
+RDTX,Roda Vivatex Tbk,10000.0,1431.8737
+REAL,Repower Asia Indonesia Tbk.,50.0,495.10117
+RELI,Reliance Sekuritas Indonesia T,550.0,560.9026
+RICY,Ricky Putra Globalindo Tbk,81.0,915.5733
+RIGS,Rig Tenders Indonesia Tbk.,494.0,1436.4017
+RIMO,Rimo International Lestari Tbk,50.0,312.98602
+RISE,Jaya Sukses Makmur Sentosa Tbk,975.0,497.2243
+RMBA,Bentoel Internasional Investam,306.0,1202.8478
+RMKE,RMK Energy Tbk.,930.0,589.44293
+ROCK,Rockfields Properti Indonesia ,294.0,518.74603
+RODA,Pikko Land Development Tbk.,54.0,595.141
+RONY,Aesler Grup Internasional Tbk.,800.0,543.36224
+ROTI,Nippon Indosari Corpindo Tbk.,1300.0,475.15848
+RSGK,Kedoya Adyaraya Tbk.,1090.0,583.52466
+RUIS,Radiant Utama Interinsco Tbk.,308.0,605.75433
+RUNS,Global Sukses Solusi Tbk.,162.0,499.1423
+SAFE,Steady Safe Tbk,220.0,1089.1875
+SAME,Sarana Meditama Metropolitan T,286.0,308.80292
+SAMF,Saraswanti Anugerah Makmur Tbk,416.0,541.2594
+SAPX,Satria Antaran Prima Tbk.,815.0,473.69714
+SATU,Kota Satu Properti Tbk.,69.0,461.50848
+SBAT,Sejahtera Bintang Abadi Textil,50.0,546.8536
+SBMA,Surya Biru Murni Acetylene Tbk,202.0,574.753
+SCCO,Supreme Cable Manufacturing & ,8425.0,1987.1251
+SCMA,Surya Citra Media Tbk.,206.0,577.1118
+SCNP,Selaras Citra Nusantara Perkas,242.0,558.8601
+SCPI,Organon Pharma Indonesia Tbk.,29000.0,1401.6136
+SDMU,Sidomulyo Selaras Tbk.,65.0,294.0067
+SDPC,Millennium Pharmacon Internati,258.0,1483.3746
+SDRA,Bank Woori Saudara Indonesia 1,565.0,529.5292
+SEMA,Semacom Integrated Tbk.,147.0,584.70935
+SFAN,Surya Fajar Capital Tbk.,1880.0,534.2692
+SGER,Sumber Global Energy Tbk.,605.0,548.7391
+SGRO,Sampoerna Agro Tbk.,2080.0,522.28656
+SHID,Hotel Sahid Jaya International,2440.0,1439.9249
+SHIP,Sillo Maritime Perdana Tbk.,920.0,418.2781
+SICO,Sigma Energy Compressindo Tbk.,146.0,589.9006
+SIDO,Industri Jamu dan Farmasi Sido,745.0,352.81927
+SILO,Siloam International Hospitals,1275.0,346.29398
+SIMA,Siwani Makmur Tbk,50.0,327.87476
+SIMP,Salim Ivomas Pratama Tbk.,410.0,421.6183
+SINI,Singaraja Putra Tbk.,1325.0,526.31274
+SIPD,Sreeya Sewu Indonesia Tbk.,1400.0,994.0827
+SKBM,Sekar Bumi Tbk.,372.0,366.05957
+SKLT,Sekar Laut Tbk.,1950.0,1226.9297
+SKRN,Superkrane Mitra Utama Tbk.,452.0,491.56418
+SKYB,Northcliff Citranusa Indonesia,51.0,466.60208
+SLIS,Gaya Abadi Sempurna Tbk.,270.0,531.6441
+SMAR,Smart Tbk.,4980.0,1301.0216
+SMBR,Semen Baturaja (Persero) Tbk.,388.0,342.11682
+SMCB,Solusi Bangun Indonesia Tbk.,1400.0,2374.9055
+SMDM,Suryamas Dutamakmur Tbk.,174.0,1020.3709
+SMDR,Samudera Indonesia  Tbk.,1840.0,774.3474
+SMGR,Semen Indonesia (Persero) Tbk.,7075.0,1441.4081
+SMKL,Satyamitra Kemas Lestari Tbk.,246.0,517.52985
+SMKM,Sumber Mas Konstruksi Tbk.,630.0,507.8766
+SMMA,Sinarmas Multiartha Tbk.,12150.0,1224.8741
+SMMT,Golden Eagle Energy Tbk.,640.0,890.7724
+SMRA,Summarecon Agung Tbk.,560.0,1428.8737
+SMRU,SMR Utama Tbk.,50.0,479.70468
+SMSM,Selamat Sempurna Tbk.,1545.0,1021.23535
+SNLK,Sunter Lakeside Hotel Tbk.,695.0,573.8818
+SOCI,Soechi Lines Tbk.,176.0,371.4798
+SOFA,Boston Furniture Industries Tb,28.0,478.7176
+SOHO,Soho Global Health Tbk.,5600.0,561.6283
+SONA,Sona Topas Tourism Industry Tb,4400.0,1305.0507
+SOSS,Shield On Service Tbk.,400.0,493.75134
+SOTS,Satria Mega Kencana Tbk.,320.0,505.31503
+SPMA,Suparma Tbk.,482.0,1145.7949
+SPTO,Surya Pertiwi Tbk.,545.0,478.6827
+SQMI,Wilton Makmur Indonesia Tbk.,59.0,507.71066
+SRAJ,Sejahteraraya Anugrahjaya Tbk.,600.0,365.5997
+SRIL,Sri Rejeki Isman Tbk.,146.0,427.05444
+SRSN,Indo Acidatama Tbk,52.0,1271.5518
+SRTG,Saratoga Investama Sedaya Tbk.,2360.0,434.71362
+SSIA,Surya Semesta Internusa Tbk.,260.0,959.6784
+SSMS,Sawit Sumbermas Sarana Tbk.,1510.0,388.91107
+SSTM,Sunson Textile Manufacture Tbk,790.0,923.0171
+STAA,Sumber Tani Agung Resources Tb,1025.0,612.00885
+STAR,Buana Artha Anugerah Tbk.,139.0,418.3245
+STTP,Siantar Top Tbk.,7600.0,1008.3546
+SULI,SLJ Global Tbk.,142.0,1189.9426
+SUPR,Solusi Tunas Pratama Tbk.,34000.0,420.42047
+SURE,Super Energy Tbk.,1720.0,492.6552
+SWAT,Sriwahana Adityakarta Tbk.,50.0,477.69006
+SWID,Saraswanti Indoland Developmen,100.0,562.5366
+TALF,Tunas Alfin Tbk.,312.0,337.6366
+TAMA,Lancartama Sejati Tbk.,50.0,528.51483
+TAMU,Pelayaran Tamarin Samudra Tbk.,50.0,436.36945
+TAPG,Triputra Agro Persada Tbk.,610.0,588.2522
+TARA,Agung Semesta Sejahtera Tbk.,50.0,325.48697
+TAXI,Express Transindo Utama Tbk.,50.0,291.18027
+TAYS,Jaya Swarasa Agung Tbk.,540.0,596.363
+TBIG,Tower Bersama Infrastructure T,2130.0,468.6388
+TBLA,Tunas Baru Lampung Tbk.,690.0,795.0342
+TBMS,Tembaga Mulia Semanan Tbk.,1575.0,1439.8318
+TCID,Mandom Indonesia Tbk.,6225.0,1245.5697
+TCPI,Transcoal Pacific Tbk.,7600.0,510.6595
+TDPM,Tridomain Performance Material,119.0,522.34625
+TEBE,Dana Brata Luhur Tbk.,805.0,527.21857
+TECH,Indosterling Technomedia Tbk.,3300.0,544.21747
+TELE,Tiphone Mobile Indonesia Tbk.,50.0,377.38248
+TFAS,Telefast Indonesia Tbk.,3480.0,523.22174
+TFCO,Tifico Fiber Indonesia Tbk.,670.0,2156.2615
+TGKA,Tigaraksa Satria Tbk.,7000.0,1463.4166
+TGRA,Terregra Asia Energy Tbk.,50.0,444.87137
+TIFA,KDB Tifa Finance Tbk.,430.0,394.80215
+TINS,Timah Tbk.,1145.0,1087.576
+TIRA,Tira Austenite Tbk,408.0,1184.3914
+TIRT,Tirta Mahakam Resources Tbk,50.0,787.2169
+TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,6975.0,1502.3651
+TLDN,Teladan Prima Agro Tbk.,585.0,610.66364
+TLKM,Telkom Indonesia (Persero) Tbk,3710.0,1529.5162
+TMAS,Temas Tbk.,2030.0,534.4077
+TMPO,Tempo Intimedia Tbk.,117.0,683.3416
+TNCA,Trimuda Nuansa Citra Tbk.,282.0,464.85968
+TOBA,TBS Energi Utama Tbk.,545.0,351.0761
+TOOL,Rohartindo Nusantara Luas Tbk.,73.0,605.47235
+TOPS,Totalindo Eka Persada Tbk.,50.0,440.93048
+TOTL,Total Bangun Persada Tbk.,304.0,480.5961
+TOTO,Surya Toto Indonesia Tbk.,264.0,1372.8783
+TOWR,Sarana Menara Nusantara Tbk.,1155.0,476.84998
+TOYS,Sunindo Adipersada Tbk.,68.0,556.42084
+TPIA,Chandra Asri Petrochemical Tbk,2340.0,525.02435
+TPMA,Trans Power Marine Tbk.,456.0,317.85553
+TRAM,Trada Alam Minera Tbk.,50.0,440.6809
+TRGU,Cerestar Indonesia Tbk.,220.0,608.0204
+TRIM,Trimegah Sekuritas Indonesia T,218.0,787.50006
+TRIN,Perintis Triniti Properti Tbk.,288.0,499.90265
+TRIS,Trisula International Tbk.,228.0,342.66357
+TRJA,Transkon Jaya Tbk.,232.0,532.16003
+TRST,Trias Sentosa Tbk.,715.0,1455.329
+TRUE,Triniti Dinamik Tbk.,50.0,536.9444
+TRUK,Guna Timur Raya Tbk.,96.0,461.63605
+TRUS,Trust Finance Indonesia Tbk,426.0,597.47485
+TSPC,Tempo Scan Pacific Tbk.,1400.0,1145.7313
+TUGU,Asuransi Tugu Pratama Indonesi,1535.0,500.32898
+TURI,Tunas Ridean Tbk.,1560.0,1102.8519
+UANG,Pakuan Tbk.,865.0,554.9604
+UCID,Uni-Charm Indonesia Tbk.,1120.0,549.89954
+UFOE,Damai Sejahtera Abadi Tbk.,206.0,573.9675
+ULTJ,Ultra Jaya Milk Industry & Tra,1440.0,1488.5944
+UNIC,Unggul Indah Cahaya Tbk.,9925.0,1506.1478
+UNIQ,Ulima Nitra Tbk.,63.0,567.41693
+UNIT,Nusantara Inti Corpora Tbk,316.0,412.38495
+UNSP,Bakrie Sumatera Plantations Tb,134.0,1494.3634
+UNTR,United Tractors Tbk.,24975.0,1617.0598
+UNVR,Unilever Indonesia Tbk.,4760.0,2312.3357
+URBN,Urban Jakarta Propertindo Tbk.,157.0,464.42303
+UVCR,Trimegah Karya Pratama Tbk.,118.0,495.8237
+VICI,Victoria Care Indonesia Tbk.,488.0,576.3337
+VICO,Victoria Investama Tbk.,148.0,370.3491
+VINS,Victoria Insurance Tbk.,133.0,413.04987
+VIVA,Visi Media Asia Tbk.,50.0,369.52368
+VOKS,Voksel Electric Tbk.,136.0,1388.2408
+VRNA,Verena Multi Finance Tbk.,99.0,460.49728
+WAPO,Wahana Pronatural Tbk.,212.0,677.9611
+WEGE,Wijaya Karya Bangunan Gedung T,139.0,461.4868
+WEHA,WEHA Transportasi Indonesia Tb,107.0,416.87244
+WGSH,Wira Global Solusi Tbk.,140.0,505.0776
+WICO,Wicaksana Overseas Internation,378.0,1160.5968
+WIFI,Solusi Sinergi Digital Tbk.,131.0,566.984
+WIIM,Wismilak Inti Makmur Tbk.,630.0,389.19772
+WIKA,Wijaya Karya (Persero) Tbk.,765.0,458.7163
+WINR,Winner Nusantara Jaya Tbk.,50.0,562.5507
+WINS,Wintermar Offshore Marine Tbk.,282.0,384.91608
+WIRG,WIR ASIA Tbk.,109.0,585.6358
+WMPP,Widodo Makmur Perkasa Tbk.,71.0,594.8749
+WMUU,Widodo Makmur Unggas Tbk.,62.0,576.2991
+WOMF,Wahana Ottomitra Multiartha Tb,256.0,572.3252
+WOOD,Integra Indocabinet Tbk.,342.0,462.74142
+WOWS,Ginting Jaya Energi Tbk.,50.0,525.33563
+WSBP,Waskita Beton Precast Tbk.,95.0,431.4413
+WSKT,Waskita Karya (Persero) Tbk.,350.0,326.73553
+WTON,Wijaya Karya Beton Tbk.,184.0,348.54004
+YELO,Yelooo Integra Datanet Tbk.,56.0,501.23138
+YPAS,Yanaprima Hastapersada Tbk,650.0,438.9165
+YULE,Yulie Sekuritas Indonesia Tbk.,2230.0,554.18787
+ZBRA,Dosni Roha Indonesia Tbk.,540.0,1324.5865
+ZINC,Kapuas Prima Coal Tbk.,50.0,451.93057
+ZONE,Mega Perintis Tbk.,1205.0,506.08472
+ZYRX,Zyrexindo Mandiri Buana Tbk.,310.0,563.02673
